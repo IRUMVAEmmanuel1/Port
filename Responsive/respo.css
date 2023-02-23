@@ -41,6 +41,32 @@ header{
 
 }
 
-@media all and (max-width:400px){
-    
+@media (max-width:400px){
+    .container{
+        display: block;
+        width:100%;
+
+
+    }
+    .container p{
+        font-size: 18px;
+        padding: 18px;
+        color:#1a1a00;
+    }
+
+}
+
+@media (max-width:840px){
+    .container{
+        display: flex;
+        width:100%;
+
+
+    }
+    .container p{
+        font-size: 18px;
+        padding: 18px;
+        color:#1a1a00;
+    }
+
 }
