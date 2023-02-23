@@ -7,7 +7,7 @@
     display: flex;
     justify-content:center;
     align-items:space-between;
-    height:22rem;
+    height:auto;
 }
 
 .nu1{
@@ -28,4 +28,19 @@
 .container p{
     font-size: 22px;
     padding: 20px;
+}
+
+.container img{
+    width:100%;
+
+}
+header{
+    text-align:center;
+    font-weight:bold;
+    font-size:30px;
+
+}
+
+@media all and (max-width:400px){
+    
 }
