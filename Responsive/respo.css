@@ -7,4 +7,25 @@
     display: flex;
     justify-content:center;
     align-items:space-between;
+    height:22rem;
+}
+
+.nu1{
+    background-color:#B6F2CD;
+
+}
+
+.nu2{
+    background-color:#E3FED2;
+
+}
+.nu3{
+    background-color:#C7F6AC;
+    
+
+}
+
+.container p{
+    font-size: 22px;
+    padding: 20px;
 }
